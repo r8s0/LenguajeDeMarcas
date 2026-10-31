@@ -2,7 +2,7 @@
 
 ## HTML
 ### Tema 01 
-- dibujo -> Prubea para ejecutar dibujo HTML en un navegador.
+- dibujo -> Prueba para ejecutar dibujo HTML en un navegador.
 
 ### Tema 02
 ####LM_ACTIVIDADES_PARTE_01
