@@ -6,15 +6,17 @@
 </head>
 
 <body>
-Rubí
-Zafiro Azul
-Esmeralda
-Amatista
-Alejandrita
-Ópalo
-Topacio
-Turquesa
-Aguamarina
+<ol>
+<li>Rubí</li>
+<li>Zafiro Azul</li>
+<li>Esmeralda</li>
+<li>Amatista</li>
+<li>Alejandrita</li>
+<li>Ópalo</li>
+<li>Topacio</li>
+<li>Turquesa</li>
+<li>Aguamarina</li>
+</ol
 </body>
 </html>
 
